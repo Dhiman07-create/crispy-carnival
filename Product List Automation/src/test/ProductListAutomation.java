@@ -21,7 +21,7 @@ public class ProductListAutomation {
 		rMethod.select();
 		rMethod.displayTotalBenches();
 		rMethod.metalBenchescount();
-		//rMethod.close();
+		rMethod.close();
 		System.out.println("---------------------------------------------");
 	}
 
