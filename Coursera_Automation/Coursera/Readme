@@ -1,0 +1,25 @@
+Name- Dhiman Dasgupta
+Emp Id- 2272789
+
+ 
+
+Project Website- Pepperfry
+
+ 
+
+Project execution-
+
+ 
+
+1. Navigates to www.pepperfry.com
+2. Verifies title of the webpage.
+3. Closes the popup that appears.
+4. Selects sofas and chair.
+5. Selects office chairs.
+6. Applies filters like brand and price.
+7. Clicks on the first chair, prints name and price, clicks on Buy Now->Login->Provides
+   incorrect data and verifies the error message.
+8. Comes back to parent window and clicks on the second chair.
+9. Prints name and verifies whether price is displayed or not and prints it.
+10. Adds to cart and takes a screenshot.
+11. Closes the browser.
